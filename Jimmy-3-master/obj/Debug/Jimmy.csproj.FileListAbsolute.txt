@@ -1,0 +1,9 @@
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\bin\Debug\Jimmy.exe.config
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\bin\Debug\Jimmy.exe
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\bin\Debug\Jimmy.pdb
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.Jimmy.resources
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.exe
+C:\Users\Emmanuel\Desktop\Programming Games\Jimmy-3-master\obj\Debug\Jimmy.pdb
